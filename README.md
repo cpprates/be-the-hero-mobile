@@ -14,6 +14,7 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Axios](https://github.com/axios/axios)
+- [Expo](https://docs.expo.io/versions/v36.0.0/workflow/already-used-react-native/#__next)
 
 ### :muscle: Projeto
 
